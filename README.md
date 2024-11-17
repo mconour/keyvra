@@ -65,5 +65,5 @@ We welcome contributions and suggestions! Please submit issues or pull requests.
 
 ### Support and Partnerships
 For more information, support, or partnership inquiries:
-- **Email:** [insert email]
-- **Website:** [insert website]
+- **Email:** support@keyvra.com
+- **Website:** keyvra.com
