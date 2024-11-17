@@ -59,7 +59,7 @@ Keyvra is a revolutionary car rental platform that enables customers to book and
 We welcome contributions and suggestions! Please submit issues or pull requests.
 
 ## License
-[Insert license information]
+Keyvra LLC
 
 ## Contact
 
